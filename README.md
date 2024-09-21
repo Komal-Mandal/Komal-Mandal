@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Mandal</h1>
 <h3 align="center">"Aspiring Data Scientist | AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems."</h3>
-(img align="right" alt=" ") 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="komal-mandal" /> </p>
