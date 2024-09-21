@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Mandal</h1>
 <h3 align="center">"Aspiring Data Scientist | AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems."</h3>
-<img align="right" alt="coding" width="400"src  ="https://www.kanektify.com/wp-content/uploads/2020/03/AI-924x560-1-570x461.x22674.jpg ">
+<img align="right" alt="coding" width="400"src  ="https://en.sepoin.com/wp-content/uploads/2020/01/AI-ML-4.jpg ">
 
 - 🌱 I’m currently learning **Data Science||AI/ML**
 
