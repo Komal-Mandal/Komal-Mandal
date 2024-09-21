@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Komal Mandal</h1>
 <h3 align="center">"Aspiring Data Scientist | AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems."</h3>
 
+(img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/9ba97233-3d55-4745-bfab-62ca76279a38)
+ ")
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="komal-mandal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal-mandal" alt="komal-mandal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/komal mandal" target="blank"><img src="https://img.shields.io/twitter/follow/komal mandal?logo=twitter&style=for-the-badge" alt="komal mandal" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science||AI/ML**
 
