@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Mandal</h1>
 <h3 align="center">"Aspiring Data Scientist | AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems."</h3>
 
-(img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/9ba97233-3d55-4745-bfab-62ca76279a38)
- ")
-
-
-
 
 - 🌱 I’m currently learning **Data Science||AI/ML**
 
