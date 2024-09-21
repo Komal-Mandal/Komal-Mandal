@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Mandal</h1>
 <h3 align="center">"Aspiring Data Scientist | AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems."</h3>
-(img align="right" alt="Coding" width="400" src="https://www.kanektify.com/wp-content/uploads/2020/03/AI-924x560-1-570x461.x22674.jpg.") 
+(img align="right" alt=" ") 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="komal-mandal" /> </p>
